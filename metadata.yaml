@@ -1,0 +1,41 @@
+_repo: Religion-and-the-War_36757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yale University. Divinity School
+    alias: Yale Divinity School
+    gutenberg_agent_id: '36666'
+    url: http://www.gutenberg.org/2009/agents/36666
+  editor:
+    agent_name: Sneath, E. Hershey (Elias Hershey)
+    alias: Sneath, Elias Hershey
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '38456'
+    url: http://www.gutenberg.org/2009/agents/38456
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36757'
+  lccn: '19000582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Religious aspects'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: 'Moral and spiritual forces in the war, by C. R. Brown -- God and
+  history, by D. C. Macintosh -- The Christian hope in times of war, by F. C. Porter
+  -- Non-resistance: Christian or pagan? By B. W. Bacon -- The ministry and the war,
+  by H. H. Tweedy -- The effect of the war upon religious education, by L. A. Weigle
+  -- Foreign missions and the war, today and tomorrow, by H. P. Beach -- The war and
+  social work, by W. B. Bailey -- The war and church unity, by W. Walker -- The religious
+  basis of world re-organization, by E. H. Sneath.'
+title: Religion and the War
+url: http://www.gutenberg.org/ebooks/36757
