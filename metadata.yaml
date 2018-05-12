@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '38456'
     url: http://www.gutenberg.org/2009/agents/38456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36757#Religion-and-the-War
 gutenberg_issued: '2011-07-17'
 gutenberg_type: Text
 identifiers:
